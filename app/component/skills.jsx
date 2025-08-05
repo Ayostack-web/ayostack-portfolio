@@ -5,15 +5,18 @@ export default function Skills() {
     "Python",
     "HTML5",
     "CSS3",
-    "JS (ES6+)",
+    "Javascript",
     "React.js",
     "Typescript",
     "Next.js",
     "Tailwind Css",
     "FastApi",
     "Postgresql",
+    "Redis",
+    "Websocket",
     "Git & Github",
     "RESTful APIs",
+    "Vercel"
   ]
 
   return (
@@ -23,7 +26,7 @@ export default function Skills() {
         {skills.map((skill, index) => (
           <div key={index} className="skill">{skill}</div>
         ))}
-      </div>
-    </section>
+      </div> <br />
+    </section> 
   )
 }

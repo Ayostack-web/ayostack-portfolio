@@ -33,7 +33,7 @@ export default function Header() {
         <a href="#contact">Contact</a>
       </nav>
 
-      <button className="toggle-btn" onClick={toggleTheme}><big>🌙</big></button>
+      <button className="toggle-btn" onClick={toggleTheme}><big>🌓</big></button>
     </header>
   )
 }

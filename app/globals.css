@@ -183,7 +183,7 @@
     background: #574b90;
     transform: translateY(-3px);
   }
-      
+    
  /*Profile Card*/ 
   .card {
     background-color: rgb(224, 233, 240);
@@ -456,5 +456,6 @@
   text-decoration: none;
   margin-bottom: auto;
 }
+
 
 

@@ -39,7 +39,8 @@ export default function Footer() {
         </div>
       </div>
 
-      <p>© 2025 Ayo Shittu. Built with love and code.</p>
+     <p> © 2025 Ayostack | Built with love and code. </p> 
+
       <br />
       <a className="a" href="#">Back to top ⬆️</a>
     </footer>

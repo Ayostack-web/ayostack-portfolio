@@ -27,11 +27,14 @@ export default function Projects() {
     <section id="projects" className="floating-card section tilt-card section">
       <h2 style={{ textAlign: "center" }}>Featured Projects</h2>
       <br />
-      <div className="projects">
+      <div className="projects hero-text">
         {projects.map((project, index) => (
           <div key={index} className="project">
             <h3>{project.title}</h3>
-            <p>{project.description}</p>
+            <p>{project.description}</p> <br />
+     <a href="https://ai-resume.vercel.app"  className="btn" target="_blank" rel="noopener noreferrer">
+    🔗 Visit Project
+  </a>
           </div>
         ))}
       </div>
