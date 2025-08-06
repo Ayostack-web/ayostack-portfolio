@@ -10,13 +10,10 @@ export default function Skills() {
     "Typescript",
     "Next.js",
     "Tailwind Css",
-    "FastApi",
     "Postgresql",
-    "Redis",
-    "Websocket",
     "Git & Github",
     "RESTful APIs",
-    "Vercel"
+    "FastApi"
   ]
 
   return (

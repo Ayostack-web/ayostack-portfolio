@@ -10,8 +10,8 @@ export default function Hero() {
           Hi, I'm <span>Ayokunle</span>
         </h1>
         <p>Full-stack Developer passionate about creating stunning web experiences.</p>
-        <p>Creative Frontend Developer | JavaScript Lover | CSS Magician</p>
-        <a href="#projects" className="btn">View My Work</a>   <a href="#contact" className="btn">Let's Connect</a>
+        <p>Creative Next.js developer Developer | JavaScript Lover | CSS Magician</p>
+        <a href="#projects" className="btn">View Projects</a> 
         <br /><br />
          
       </div>
@@ -28,7 +28,7 @@ export default function Hero() {
         <h2>Ayokunle Shittu</h2>
         <p className="job-title">Full-stack Developer</p>
         <p className="bio">Passionate about creating beautiful and user-friendly websites.</p>
-        <button className="follow-btn">Follow</button>
+        <button className="follow-btn">Let's Connect</button>
       </div>
 </section>
   )

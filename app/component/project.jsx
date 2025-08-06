@@ -23,7 +23,7 @@ export default function Projects() {
     },
   ]
 
-  return (
+  return ( <>    
     <section id="projects" className="floating-card section tilt-card section">
       <h2 style={{ textAlign: "center" }}>Featured Projects</h2>
       <br />
@@ -37,7 +37,8 @@ export default function Projects() {
   </a>
           </div>
         ))}
-      </div>
+        </div>
     </section>
+      </>
   )
 }
