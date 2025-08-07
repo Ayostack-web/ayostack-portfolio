@@ -4,22 +4,22 @@ import Image from "next/image"
 export default function Footer() {
   const socials = [
     {
-      href: "https://www.instagram.com/ayokunle_shittu/",
+      href: "https://www.instagram.com/ayokunle_shittu/ ",
       icon: "/img/download-1.png",
       alt: "Instagram",
     },
     {
-      href: "https://www.linkedin.com/in/shittu-ayokunle-560a9a162",
+      href: " https://www.linkedin.com/in/ayokunle-shittu-560a9a162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
       icon: "/img/download-2.png",
       alt: "LinkedIn",
     },
     {
-      href: "https://www.facebook.com/profile.php?id=100006560209278",
+      href: "https://www.facebook.com/profile.php?id=100006560209278 ",
       icon: "/img/download.png",
       alt: "Facebook",
-    },
-    {
-      href: "#",
+     },
+     {
+      href: " https://x.com/ayle_2",
       icon: "/img/icons8-x-50.png",
       alt: "X",
     },

@@ -28,7 +28,7 @@ export default function Hero() {
         <h2>Ayokunle Shittu</h2>
         <p className="job-title">Full-stack Developer</p>
         <p className="bio">Passionate about creating beautiful and user-friendly websites.</p>
-        <button className="follow-btn">Let's Connect</button>
+       <a href=" https://www.linkedin.com/in/ayokunle-shittu-560a9a162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "  className='follow-btn'>Let's Connect</a>
       </div>
 </section>
   )
