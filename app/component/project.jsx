@@ -15,7 +15,7 @@ export default function Projects() {
     {
       title: "🖼️ Photo Gallery Website",
       description: "An interactive image gallery with smooth hover effects, zoom on click, and seamless navigation — designed for a clean visual experience.",
-      link: "https://your-photo-gallery-url.com",
+      link: "https://image-gallery-blush-sigma.vercel.app/",
     },
     {
       title: "📝 Blog App (FastAPI)",
