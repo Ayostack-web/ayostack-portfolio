@@ -1,3 +1,5 @@
+
+
 // app/components/About.jsx
 export default function About() {
   return (
@@ -14,7 +16,3 @@ export default function About() {
     </section>
   )
 }
-
-
-
-

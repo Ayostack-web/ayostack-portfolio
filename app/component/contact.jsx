@@ -3,7 +3,7 @@
 export default function Contact() {
   return (
     <section id="contact" className="section">
-      <h2>Contact Me</h2>
+      <h2>📬Contact Me</h2>
 
       <form className="contact-form">
         <input type="text" placeholder="Your Name" required />

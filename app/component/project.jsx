@@ -17,11 +17,6 @@ export default function Projects() {
       description: "An interactive image gallery with smooth hover effects, zoom on click, and seamless navigation — designed for a clean visual experience.",
       link: "https://image-gallery-blush-sigma.vercel.app/",
     },
-    {
-      title: "📝 Blog App (FastAPI)",
-      description: "A fast, modern blog API built with FastAPI — supports user auth, CRUD, and clean RESTful endpoints.",
-      link: "https://your-fastapi-blog-url.com",
-    },
   ];
 
   return (
@@ -44,7 +39,7 @@ export default function Projects() {
             </a>
           </div>
         ))}
-      </div>
-    </section>
+      </div> 
+    </section> 
   );
 }

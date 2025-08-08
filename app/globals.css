@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
     background-image: radial-gradient(rgb(218, 206, 230),rgb(219, 233, 246));
@@ -36,7 +39,7 @@
     position: fixed;
     width: 100%;
     top: 0;
-    left: 0;
+    left:0; 
     z-index: 100;
     background: var(--nav-bg);
     backdrop-filter: blur(20px);

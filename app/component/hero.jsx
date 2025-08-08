@@ -1,4 +1,5 @@
 // app/components/Hero.jsx
+
 import Image from 'next/image'
 
 export default function Hero() {
@@ -7,11 +8,11 @@ export default function Hero() {
       {/* Hero Text */}
       <div className="hero-text">
         <h1>
-          Hi, I'm <span>Ayokunle</span>
+          Hi, I'm <span>Ayokunle</span> 👋
         </h1>
         <p>Full-stack Developer passionate about creating stunning web experiences.</p>
         <p>Creative Next.js developer Developer | JavaScript Lover | CSS Magician</p>
-        <a href="#projects" className="btn">View Projects</a> 
+        <a href="#projects" className="btn">Explore Projects</a> 
         <br /><br />
          
       </div>
@@ -33,46 +34,6 @@ export default function Hero() {
 </section>
   )
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
